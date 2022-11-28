@@ -3,6 +3,7 @@ print('This is git tutorial')
 x=5
 print(x*5)
 y=x**2
-if x!=y:
+if x==y:
     print('yes')
-
+else:
+    print('no')
